@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "初恋シンデレラ",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-17T13:34:47.069317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋シンデレラ",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_初恋シンデレラ_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋シンデレラ(instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_初恋シンデレラ(instrumental)_≒JOY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋シンデレラ",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_初恋シンデレラ_≒JOY.txt"
+    }
+  ]
+}
